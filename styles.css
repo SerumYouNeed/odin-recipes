@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, "Time New Roman", sans-serif;
+    font-size: 22px;
+    background-color: rgb(173, 251, 225);
+}
+
+h1,
+h2 {
+    background-color: rgb(40, 179, 132);
+    color: rgb(226, 217, 43);
+    text-align: center;
+}
+
